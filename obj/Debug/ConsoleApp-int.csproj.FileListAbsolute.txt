@@ -1,0 +1,7 @@
+C:\Users\asus\source\repos\ConsoleApp-int\ConsoleApp-int\bin\Debug\ConsoleApp-int.exe.config
+C:\Users\asus\source\repos\ConsoleApp-int\ConsoleApp-int\bin\Debug\ConsoleApp-int.exe
+C:\Users\asus\source\repos\ConsoleApp-int\ConsoleApp-int\bin\Debug\ConsoleApp-int.pdb
+C:\Users\asus\source\repos\ConsoleApp-int\ConsoleApp-int\obj\Debug\ConsoleApp-int.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\ConsoleApp-int\ConsoleApp-int\obj\Debug\ConsoleApp-int.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\ConsoleApp-int\ConsoleApp-int\obj\Debug\ConsoleApp-int.exe
+C:\Users\asus\source\repos\ConsoleApp-int\ConsoleApp-int\obj\Debug\ConsoleApp-int.pdb
